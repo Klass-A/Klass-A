@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Klass-A
+- 👋 Hi, I’m Otman
 - 👀 I’m interested in Sports & Growth
 - 🌱 I’m currently learning Web Developement
 - 💞️ I’m looking to collaborate on startup ideas
