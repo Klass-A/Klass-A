@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Otman
-- 👀 I’m interested in Sports & Growth
-- 🌱 I’m currently learning Web Developement
+- 👀 I’m interested in coding, entrepreneurship, marketing & sports
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on startup ideas
 - 📫 How to reach me otman.zaib@gmail.com
 
