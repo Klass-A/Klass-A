@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Otman
-- 👀 I’m interested in coding, entrepreneurship, marketing and sports
-- 🌱 Currently learning Angular 2
+- 👀 I’m interested in coding, entrepreneurship, marketing and working out
+- 🌱 Currently studying Angular 2
 - 💞️ I’m looking to collaborate on startup ideas
 
 <!---
